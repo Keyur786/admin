@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "690786906874",
+    "project_id": "food-5c84d",
+    "storage_bucket": "food-5c84d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690786906874:android:9c481a3110e572a0284f43",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690786906874-sv2n72q4chp14u8ris60efuncalp6vj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjedIYTYA7m_EjH0XOh--S7HVWCuT6xho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690786906874-sv2n72q4chp14u8ris60efuncalp6vj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690786906874:android:76c856b17354355c284f43",
+        "android_client_info": {
+          "package_name": "com.example.bhojan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690786906874-sv2n72q4chp14u8ris60efuncalp6vj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjedIYTYA7m_EjH0XOh--S7HVWCuT6xho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690786906874-sv2n72q4chp14u8ris60efuncalp6vj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
